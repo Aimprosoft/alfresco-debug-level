@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Change log level in runtime</shortname>
+    <description>Change log level for any class in classpath, restricted access to admin only</description>
+    <url>/aimprosoft/extension/dynamic-logger</url>
+    <format default="json">argument</format>
+    <authentication>admin</authentication>
+</webscript>

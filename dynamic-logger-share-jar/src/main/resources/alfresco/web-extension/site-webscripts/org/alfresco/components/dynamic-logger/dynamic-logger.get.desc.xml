@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Dynamic logger</shortname>
+    <description>Dynamic logger page that allow you to change logger level</description>
+    <url>/components/console/loggerLevel</url>
+    <authentication>admin</authentication>
+    <family>admin-console</family>
+</webscript>
